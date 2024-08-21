@@ -1,0 +1,54 @@
+.justify-content-nav{
+    justify-content: flex-end;
+}
+
+
+
+
+.pr-5{
+    padding-right: 3rem;
+}
+
+.ps-git-5{
+    padding-left: 3rem!important;
+}
+
+
+.nav-ps{
+    padding-left: 3rem !important;
+}
+
+.color-white{
+    color: white;
+}
+
+.nav-links-fonts{
+font-family: DM Sans;
+font-size: 20px;
+font-weight: 500;
+line-height: 26px;
+
+
+}
+
+.x-large{
+    font-size: x-large;
+}
+
+.icon-fonts{
+    font-size: 20px;
+}
+
+/* media query */
+
+
+@media (max-width: 992px) {
+    .ps-git-5{
+        padding-left: 0!important;
+    }
+
+    .nav-ps{
+        padding-left: 0rem !important;
+    }
+    
+  }

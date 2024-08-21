@@ -1,0 +1,219 @@
+.mt-Resume {
+    margin-top: 288px;
+}
+
+.joshua-font {
+    /* Apply the gradient background to the text */
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+    -webkit-background-clip: text;
+    /* For Safari and Chrome */
+    -webkit-text-fill-color: transparent;
+    /* For Safari and Chrome */
+    background-clip: text;
+    /* For modern browsers */
+    color: transparent;
+    /* Ensure text color is transparent to show the gradient */
+}
+
+.margin-auto{
+    margin: auto;
+}
+
+
+
+/* josh heading */
+.josh-heading {
+    font-family: Poppins;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -1px;
+    text-align: left;
+
+}
+
+
+
+
+/* button resume */
+
+.mt-resume-button{
+    margin-top: 235px;
+}
+
+.resume-btn {
+    background: transparent;
+    padding: 13.5px 31.5px;
+    border-radius: 9px;
+    border: 1.5px solid transparent; /* Set border to transparent to only show the gradient border */
+    border-image-source: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+    border-image-slice: 1; /* Adjust this to ensure the gradient covers the border properly */
+  }
+
+.resume-btn div {
+    font-family: Gotham;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    padding-left: 0.5rem;
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+
+}
+
+
+
+
+
+
+
+/* josh heading responsive */
+
+@media (max-width: 1400px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 50px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 42px;
+    }
+
+}
+
+
+@media (max-width: 992px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 31px;
+    }
+
+}
+
+
+
+@media (max-width: 767px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 45px;
+    }
+
+    .res-mt-768{
+
+        margin-top: 20px;
+    }
+
+    .mt-Resume {
+        margin-top: 40px;
+    }
+
+}
+
+@media (max-width: 506px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 38px;
+    }
+}
+
+@media (max-width: 425px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 28px;
+        line-height: 38px;
+    }
+}
+
+
+@media (max-width: 375px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .res-josh-375 {
+        width: 280px;
+    }
+}
+
+
+@media (max-width: 317px) {
+    .josh-heading {
+        font-family: Poppins;
+        font-size: 25px;
+        line-height: 38px;
+    }
+
+}
+
+
+
+/* margin query */
+
+@media (max-width: 991px) {
+
+
+    .mt-Resume {
+        margin-top: 40px;
+    }
+
+    .mt-resume-button{
+        margin-top: 45px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+  

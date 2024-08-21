@@ -1,0 +1,108 @@
+.card {
+    border-radius: 20px;
+    width: 23rem;
+}
+
+
+.card-body {
+    box-shadow: 2px 2px 100px 0px #00000033;
+}
+
+
+/* fonts */
+.live-font {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left: 9px;
+    text-decoration-line: underline;
+    text-align: left;
+}
+
+.project-title {
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 26px;
+    margin-bottom: 17px;
+
+
+}
+
+.project-text {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-bottom: 12px;
+    text-align: left;
+
+}
+
+.project-para {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: left;
+
+}
+
+.tech-font{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+}
+
+.view-font {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    padding-right: 20px;
+    margin-top: 65px;
+}
+
+
+
+/* margins */
+
+.mt-project-row{
+    margin-top: 62px;
+}
+
+@media (max-width: 1200px) {
+    .card {
+        border-radius: 20px;
+        width: 18rem;
+    }
+    
+  }
+  
+
+@media (max-width: 992px) {
+    .res-project-mt-992{
+        margin-top: 62px;
+    }
+
+    .card {
+        border-radius: 20px;
+        width: 23rem;
+    }
+    
+  }
+
+
+@media (max-width: 425px) {
+    .card {
+        border-radius: 20px;
+        width: 21rem;
+    }
+    
+  }
+  

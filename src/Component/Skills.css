@@ -1,0 +1,91 @@
+.Skill-header{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+
+text-align: center;
+
+}
+
+.skill-para{
+    font-family: Poppins;
+font-size: 32px;
+font-weight: 400;
+line-height: 26px;
+margin-top: 32px;
+text-align: center;
+margin-bottom: 140px;
+
+}
+
+.mt-skill{
+    margin-top: 210px;
+}
+
+.mt-skill-row{
+    margin-top: 77px;
+}
+
+
+
+/* margin skills */
+
+@media (max-width: 992px) {
+    .res-mt-992{
+        margin-top: 25px;
+    }
+
+    .mt-skill-row {
+        margin-top: 25px;
+    }
+
+    .mt-skill {
+        margin-top: 100px;
+    }
+
+    .skill-para {
+        margin-bottom: 60px;
+        margin-top: 10px;
+    }
+
+
+    /* fonts */
+
+    .Skill-header {
+    
+        font-size: 33px;
+    }
+    .skill-para {
+        font-size: 19px;
+      
+    }
+
+
+  }
+
+
+  @media (max-width: 575px) {
+    .res-mt-575{
+        margin-top: 25px;
+    }
+
+
+
+  }
+
+  @media (max-width: 425px) {
+    .mt-skill {
+        margin-top: 40px;
+    }
+
+    .connect-with-me {
+         margin-top: 40px;
+   
+
+    }
+
+
+
+  }
+  
+  
