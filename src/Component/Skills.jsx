@@ -45,7 +45,7 @@ export default function Skills({isDarkMode, setIsDarkMode}) {
             <img src="../assets/skill9.svg" alt="" />
           </div>
           <div className="col-lg-2 col-md-4 col-sm-4 col-6 d-flex justify-content-center  res-mt-992">
-          { isDarkMode ? <img src="../assets/skill10dark.png" alt="" /> :    <img src="../assets/Skill10.svg" alt="" />}
+          { isDarkMode ? <img src="../assets/skill10dark.png" alt="" /> :    <img src="../assets/skill10.svg" alt="" />}
           
           </div>
           <div className="col-lg-2 col-md-4 col-sm-4 col-6 d-flex justify-content-center  res-mt-992">
